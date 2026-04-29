@@ -1,0 +1,94 @@
+{
+  "portfolios": [
+    {
+      "name": "Core Growth",
+      "objective": "Long-term wealth building through quality growth assets.",
+      "risk_profile": "Aggressive",
+      "target_value": 250000,
+      "cash_balance": 12000,
+      "notes": "Main accumulation portfolio focused on compounding."
+    },
+    {
+      "name": "Income Shield",
+      "objective": "Generate steadier returns with income-oriented and defensive assets.",
+      "risk_profile": "Moderate",
+      "target_value": 180000,
+      "cash_balance": 18000,
+      "notes": "Balances dividends, bonds, and lower-volatility ETFs."
+    }
+  ],
+  "holdings": [
+    {
+      "portfolio_name": "Core Growth",
+      "asset_name": "NVIDIA Corp",
+      "ticker": "NVDA",
+      "asset_type": "Stock",
+      "sector": "Technology",
+      "units": 18,
+      "average_cost": 410,
+      "current_price": 950,
+      "purchase_date": "2025-02-10",
+      "notes": "Conviction AI growth holding."
+    },
+    {
+      "portfolio_name": "Core Growth",
+      "asset_name": "Vanguard S&P 500 ETF",
+      "ticker": "VOO",
+      "asset_type": "ETF",
+      "sector": "Broad Market",
+      "units": 32,
+      "average_cost": 415,
+      "current_price": 489,
+      "purchase_date": "2024-11-18",
+      "notes": "Core US equity exposure."
+    },
+    {
+      "portfolio_name": "Core Growth",
+      "asset_name": "Bitcoin",
+      "ticker": "BTC",
+      "asset_type": "Crypto",
+      "sector": "Digital Assets",
+      "units": 0.65,
+      "average_cost": 41800,
+      "current_price": 64200,
+      "purchase_date": "2024-08-05",
+      "notes": "High-volatility asymmetric position."
+    },
+    {
+      "portfolio_name": "Income Shield",
+      "asset_name": "iShares Core U.S. Aggregate Bond ETF",
+      "ticker": "AGG",
+      "asset_type": "Bond",
+      "sector": "Fixed Income",
+      "units": 120,
+      "average_cost": 96,
+      "current_price": 98.4,
+      "purchase_date": "2024-05-03",
+      "notes": "Stability sleeve."
+    },
+    {
+      "portfolio_name": "Income Shield",
+      "asset_name": "Schwab U.S. Dividend Equity ETF",
+      "ticker": "SCHD",
+      "asset_type": "ETF",
+      "sector": "Dividend Equity",
+      "units": 70,
+      "average_cost": 73,
+      "current_price": 80.5,
+      "purchase_date": "2024-07-15",
+      "notes": "Dividend and quality factor exposure."
+    },
+    {
+      "portfolio_name": "Income Shield",
+      "asset_name": "SPDR Gold Shares",
+      "ticker": "GLD",
+      "asset_type": "Commodity",
+      "sector": "Precious Metals",
+      "units": 24,
+      "average_cost": 188,
+      "current_price": 223,
+      "purchase_date": "2025-01-22",
+      "notes": "Inflation and uncertainty hedge."
+    }
+  ]
+}

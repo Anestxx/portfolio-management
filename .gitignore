@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+streamlit.stderr.log
+streamlit.stdout.log
+
+# Environment files
+.env
+
+# Local database files
+storage/*.db
+storage/*.db-shm
+storage/*.db-wal
+storage/*.sqlite3
+
+# OS / editor
+.DS_Store
+Thumbs.db
